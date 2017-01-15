@@ -8,26 +8,28 @@ Pour compiler le code, on doit utiliser le programme neasm.exe. (C'est dans le "
 Pour lancer le programme de Pac-Man, on doit utiliser l'émulateur fceux.exe : http://www.fceux.com/web/home.html
 
 Pour contrôler la direction de Pac-Man : Les flèches
+
 Pour changer de fantôme : 
   1. Il faut aller dans l'onglet "Config" de l'émulateur.
   2. Dans l'option "Input".
   3. "Configure" le Port 2 (à droite).
   4. Définir les touches "Select", "Start", "B" et "A".
-  Respectivement :
-    Touche Z (Select) : Orange
-    Touche X (Start)  : Rouge
-    Touche C (B)      : Bleu
-    Touche V (A)      : Jaune
+	Respectivement :
+		Touche Z (Select) : Orange
+		Touche X (Start)  : Rouge
+		Touche C (B)      : Bleu
+		Touche V (A)      : Jaune
+		
 Pour contrôler le fantôtme choisi : 
   1. Il faut aller dans l'onglet "Config" de l'émulateur.
   2. Dans l'option "Input".
   3. "Configure" le Port 2 (à droite).
   4. Définir les touches "Up", "Right", "Down" et "Left". 
-  Respectivement : 
-  Touche H (Up)
-  Touche M (Right)
-  Touche N (Down)
-  Touche B (Left)
+	Respectivement : 
+		Touche H (Up)
+		Touche M (Right)
+		Touche N (Down)
+		Touche B (Left)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,23 +43,25 @@ To launch the Pac-Man program, we need to use fceux.exe emulator : http://www.fc
 My code is in french because it was for a school project (and i'm from Québec, so we need to use french :) ).
 
 To control Pac-Man direction : Arrow keys
+
 To change ghost : 
   1. Go to "Config" tab of the emulator.
   2. In "Input" option.
   3. "Configure" Port 2 (to the right).
   4. Set "Select", "Start", "B" and "A" buttons.
-  Respectively :
-    Button Z (Select) : Orange
-    Button X (Start)  : Red
-    Button C (B)      : Blue
-    Button V (A)      : Yellow
+	Respectively :
+		Button Z (Select) : Orange
+		Button X (Start)  : Red
+		Button C (B)      : Blue
+		Button V (A)      : Yellow
+
 To control choosen ghost direction : 
   1. Go to "Config" tab of the emulator.
   2. In "Input" option.
   3. "Configure" Port 2 (to the right).
   4. Set "Up", "Right", "Down" and "Left" buttons. 
-  Respectively : 
-  Button H (Up)
-  Button M (Right)
-  Button N (Down)
-  Button B (Left)
+	Respectively : 
+		Button H (Up)
+		Button M (Right)
+		Button N (Down)
+		Button B (Left)

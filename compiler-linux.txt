@@ -1,0 +1,7 @@
+Installer build-essential
+  # sudo apt-get install build-essential
+Aller dans le répertoire source
+Exécuter la commande:
+  # make
+Déplacer l'exécutable dans un répertoire bin:
+  # sudo mv nesasm /usr/local/bin
